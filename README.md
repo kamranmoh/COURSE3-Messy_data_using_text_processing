@@ -1,5 +1,6 @@
 # Messy_medical_data_using_NLP
 
+For the followers of the course: Please respect your learning culture and do not copy the current code!
 Each line of the `dates.txt` file corresponds to a medical note. Each note has a date that needs to be extracted, but each date is encoded in one of many formats.
 
 The goal is to correctly identify all of the different date variants encoded in this dataset and to properly normalize and sort the dates. 
